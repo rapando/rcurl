@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='rcurl',
-    version='0.0.1',
+    version='0.0.2',
     description="Generate curl commands from python-requests",
     url="https://github.com/rapando/rcurl",
     author="Samson Rapando",

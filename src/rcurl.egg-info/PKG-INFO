@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: rcurl
 Version: 0.0.1
-Summary: Say Hello
+Summary: Generate curl commands from python-requests
 Home-page: https://github.com/rapando/rcurl
 Author: Samson Rapando
 Author-email: samsonrapando@gmail.com
@@ -42,6 +42,12 @@ Description: # rcurl
         print (curl_command_one)
         print (curl_command_two)
         print (curl_command_three)
+        ```
+        
+        ## Build
+        ```bash
+        python setup.py bdist_wheel sdist
+        twine upload dist/*
         ```
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
