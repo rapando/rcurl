@@ -35,3 +35,9 @@ print (curl_command_one)
 print (curl_command_two)
 print (curl_command_three)
 ```
+
+## Build
+```bash
+python setup.py bdist_wheel sdist
+twine upload dist/*
+```

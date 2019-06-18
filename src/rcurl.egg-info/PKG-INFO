@@ -6,7 +6,7 @@ Home-page: https://github.com/rapando/rcurl
 Author: Samson Rapando
 Author-email: samsonrapando@gmail.com
 License: UNKNOWN
-Description: #rcurl
+Description: # rcurl
         
         A simple package of generating curl statements from requests.
         
