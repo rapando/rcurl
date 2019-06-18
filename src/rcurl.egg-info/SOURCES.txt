@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/rcurl.py
+src/rcurl.egg-info/PKG-INFO
+src/rcurl.egg-info/SOURCES.txt
+src/rcurl.egg-info/dependency_links.txt
+src/rcurl.egg-info/top_level.txt

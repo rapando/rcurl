@@ -1,0 +1,1 @@
+expected_get = 'curl https://www.google.com/  -H "User-Agent:python-requests/2.22.0"  -H "Accept-Encoding:gzip, deflate"  -H "Accept:*/*"  -H "Connection:keep-alive" '
