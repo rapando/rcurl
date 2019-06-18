@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: rcurl
-Version: 0.0.1
+Version: 0.0.2
 Summary: Generate curl commands from python-requests
 Home-page: https://github.com/rapando/rcurl
 Author: Samson Rapando

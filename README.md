@@ -38,6 +38,7 @@ print (curl_command_three)
 
 ## Build
 ```bash
+sudo rm -r build dist
 python setup.py bdist_wheel sdist
 twine upload dist/*
 ```
